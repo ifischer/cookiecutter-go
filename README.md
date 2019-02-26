@@ -14,7 +14,7 @@ make build run
 Install new module
 ------------------
 
-This will add a new Go module depencency:
+This will add a new Go module depencency and save it to go.mod and go.sum:
 
 ```
 make build shell
